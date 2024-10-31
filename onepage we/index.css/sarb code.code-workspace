@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../sarb code"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../animation"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Try again"
+	}
+}
